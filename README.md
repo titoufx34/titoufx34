@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning or knowing Cysec, Python, Java, SQL, and i'm on my way for a DevOps Bachelor
   
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank">
   <img src=https://github.com/titoufx34/titoufx34/assets/154378943/5c4fdbcf-ffb3-4859-b2ce-ddba5a9fb9c1) width="100"/>
 </a>
 <img src=https://github.com/titoufx34/titoufx34/assets/154378943/46c63ecc-61fa-4739-ad7a-c033704d05f1 width="100"/>
