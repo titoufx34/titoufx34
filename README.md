@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @titoufx34/Baptiste
-- 📫 You can reach me there : **bmuzard@proton.me** 
+- 📫 You can reach me there : **bmuzard@proton.me** <a href="https://www.linkedin.com/in/baptistemuzard/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pascal-billerach" height="30" width="40" />
+    </a>
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning or knowing Cysec, Python, Java, SQL, and i'm on my way for a DevOps Bachelor
   
