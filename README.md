@@ -3,7 +3,7 @@
 - 📫 You can reach me there : **bmuzard@proton.me** 
 - 😄 Pronouns: he/him
 
-<img src=https://github.com/titoufx34/titoufx34/assets/154378943/5c4fdbcf-ffb3-4859-b2ce-ddba5a9fb9c1) width="50"/>
+<img src=https://github.com/titoufx34/titoufx34/assets/154378943/5c4fdbcf-ffb3-4859-b2ce-ddba5a9fb9c1) width="100"/>
 
 ![notion-original](https://github.com/titoufx34/titoufx34/assets/154378943/46c63ecc-61fa-4739-ad7a-c033704d05f1)
 ![linkedin-original](https://github.com/titoufx34/titoufx34/assets/154378943/f4f1c41c-0971-4826-84b1-ed985576d0ae)
