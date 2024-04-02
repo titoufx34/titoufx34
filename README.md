@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning or knowing Cysec, Python, Java, SQL, and i'm on my way for a DevOps Bachelor
   
 <a href="https://www.mysql.com/" target="_blank">
-  <img src=https://github.com/titoufx34/titoufx34/assets/154378943/5c4fdbcf-ffb3-4859-b2ce-ddba5a9fb9c1) width="800"/>
+  <img src=https://github.com/titoufx34/titoufx34/assets/154378943/5c4fdbcf-ffb3-4859-b2ce-ddba5a9fb9c1) width="80"/>
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src=https://github.com/titoufx34/titoufx34/assets/154378943/6d5550bb-1988-425d-a8fd-c6fdd00a5974 width="80"/>
